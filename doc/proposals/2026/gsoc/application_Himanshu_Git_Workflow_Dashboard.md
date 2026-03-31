@@ -28,11 +28,8 @@ I also submitted other PRs aimed at adding basic auth, API keys, and bearer toke
 * [API Key and Bearer Token PR](https://github.com/foss42/apidash/pull/689)
 
 *Other Open Source Contributions:*
-I actively participated in DigitalOcean’s Hacktoberfest ’24, getting 4 PRs merged across 3 different repositories (2 Flutter-based, 1 Python Flask-based):
-* [Bible Verse Finder (Flask 1)](https://github.com/Namit2111/bible-verse-finder/pull/50)
-* [Aerocart (Flutter 1)](https://github.com/lugnitdgp/Aerocart/pull/11)
-* [Diaryvault (Flutter 2)](https://github.com/SankethBK/diaryvault/pull/258)
-* [Bible Verse Finder (Flask 2)](https://github.com/Namit2111/bible-verse-finder/pull/54)
+I actively participated in DigitalOcean’s Hacktoberfest ’25 and Hactoberfest '24.
+In Hacktoberfest'25 I achieved Supercontributer achievement also.
 
 **2. What is your one project/achievement that you are most proud of? Why?**
 I am most proud of my project **[OneStop_ui](https://github.com/maiHydrogen/onestop_ui)**. It is A flutter package developed for the live android and ios app available on online stores which is being used by 8000+ peopole residing in the IIT Guwahati campus on daily basis.
